@@ -1,6 +1,6 @@
 {
   "name": "j2c-plugin-logger",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "j2c plugin that logs and passes through its input.",
   "main": "index.js",
   "scripts": {

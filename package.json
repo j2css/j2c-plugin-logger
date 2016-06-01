@@ -1,0 +1,24 @@
+{
+  "name": "j2c-plugin-logger",
+  "version": "0.1.0",
+  "description": "j2c plugin that logs and passes through its input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j2css/j2c-plugin-logger.git"
+  },
+  "keywords": [
+    "j2c",
+    "plugin",
+    "logger"
+  ],
+  "author": "Pierre-Yves Gérardy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j2css/j2c-plugin-logger/issues"
+  },
+  "homepage": "https://github.com/j2css/j2c-plugin-logger#readme"
+}
